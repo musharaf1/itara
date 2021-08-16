@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="16px" viewBox="0 0 20 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>List View</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Screens" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Search-Result_Grid" transform="translate(-328.000000, -125.000000)" fill="#FFFFFF">
+            <g id="List-View" transform="translate(338.000000, 133.500000) scale(-1, 1) translate(-338.000000, -133.500000) translate(328.000000, 125.000000)">
+                <g id="menu" transform="translate(10.000000, 8.500000) scale(-1, 1) translate(-10.000000, -8.500000) ">
+                    <g id="Group-4" transform="translate(0.000000, 0.008339)" fill-rule="nonzero">
+                        <polygon id="path-1_82_" points="2.97635905 5.15143483e-14 19.9863662 5.15143483e-14 19.9863662 1.41751237 2.97635905 1.41751237"></polygon>
+                        <polygon id="path-2_77_" points="5.16253706e-14 5.15143483e-14 1.41751237 5.15143483e-14 1.41751237 1.41751237 5.16253706e-14 1.41751237"></polygon>
+                    </g>
+                    <g id="Group-5" transform="translate(0.000000, 7.178339)" fill-rule="nonzero">
+                        <polygon id="Path" points="2.7643576 5.15143483e-14 18.3568524 5.15143483e-14 18.3568524 1.41751237 2.7643576 1.41751237"></polygon>
+                        <polygon id="path-2_76_" points="5.16253706e-14 0.53000363 1.41751237 0.53000363 1.41751237 1.947516 5.16253706e-14 1.947516"></polygon>
+                    </g>
+                    <g id="Group" transform="translate(0.000000, 14.348339)" fill-rule="nonzero">
+                        <polygon id="path-1_81_" points="2.97635905 5.15143483e-14 19.9863662 5.15143483e-14 19.9863662 1.41751237 2.97635905 1.41751237"></polygon>
+                        <polygon id="path-2_75_" points="5.16253706e-14 5.15143483e-14 1.41751237 5.15143483e-14 1.41751237 1.41751237 5.16253706e-14 1.41751237"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

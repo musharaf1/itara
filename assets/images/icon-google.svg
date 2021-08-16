@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="29px" height="29px" viewBox="0 0 29 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>Group 31</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Screens" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home/Sign-Up" transform="translate(-126.000000, -728.000000)">
+            <g id="Group-31" transform="translate(126.000000, 728.000000)">
+                <rect id="Rectangle-Copy-3" fill="#929292" x="0" y="0" width="29" height="29" rx="8"></rect>
+                <g id="google-plus" transform="translate(9.000000, 9.000000)" fill="#E8E8E8" fill-rule="nonzero">
+                    <path d="M5.145,4.116 L5.145,6.174 L8.056041,6.174 C7.631064,7.371756 6.486816,8.232 5.145,8.232 C3.443034,8.232 2.058,6.846966 2.058,5.145 C2.058,3.443034 3.443034,2.058 5.145,2.058 C5.882793,2.058 6.592803,2.322453 7.144347,2.802996 L8.496453,1.251264 C7.570353,0.444528 6.380829,0 5.145,0 C2.308047,0 0,2.308047 0,5.145 C0,7.981953 2.308047,10.29 5.145,10.29 C7.981953,10.29 10.29,7.981953 10.29,5.145 L10.29,4.116 L5.145,4.116 Z" id="Path"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

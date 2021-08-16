@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "705410542018",
+    "firebase_url": "https://itara-marketplace.firebaseio.com",
+    "project_id": "itara-marketplace",
+    "storage_bucket": "itara-marketplace.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705410542018:android:a8fe3c9eff9cf3b6b4ce5b",
+        "android_client_info": {
+          "package_name": "com.itara.marketplace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705410542018-9ccb4p4tdgrqcus6qug5qotvim2oog1q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.itara.marketplace",
+            "certificate_hash": "72b1bef7a31951b2927574223a9adddfc14acb24"
+          }
+        },
+        {
+          "client_id": "705410542018-h0isgspcgk9mohs48eu67a43i2li6v1b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.itara.marketplace",
+            "certificate_hash": "bf5de3b44fd41871753bed53910d7166fc4f6f6c"
+          }
+        },
+        {
+          "client_id": "705410542018-vn6deq6afop75i41sukaphaca24mtbo4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiYGD3Ie8xW0g1LBT4eYlSL2vGUJP0z68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705410542018-vn6deq6afop75i41sukaphaca24mtbo4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

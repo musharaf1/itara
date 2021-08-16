@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="18px" viewBox="0 0 20 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>Like icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="9.87033471 17.4358974 0 17.4358974 0 0 9.87033471 0 19.7406694 3.82115547e-15 19.7406694 17.4358974"></polygon>
+        <path d="M16.3454372,8.60102564 L9.7212099,15.2552268 L3.08543721,8.58942801 C2.3528939,7.85357002 1.94904081,6.87676529 1.94786271,5.83889546 C1.94668461,4.80078895 2.34888835,3.82422091 3.08025356,3.08954635 C3.81044067,2.35605523 4.78096042,1.95203156 5.81274144,1.95203156 C6.84782113,1.95203156 7.82187518,2.35794872 8.5555966,3.09499014 L9.39228406,3.93546351 C9.47875668,4.02232742 9.59609556,4.07108481 9.71838246,4.07108481 C9.84066936,4.07108481 9.95800824,4.02232742 10.0444809,3.93546351 L10.8750422,3.10114398 C11.6078211,2.36504931 12.5809327,1.95960552 13.6153055,1.95960552 C14.648029,1.95960552 15.6194913,2.36410256 16.3506209,3.09854043 C17.8590616,4.61404339 17.856941,7.08244576 16.3454372,8.60102564 M17.0021108,2.4433925 C16.0968579,1.53404339 14.8937809,1.03321499 13.6148343,1.03321499 C12.3342383,1.03321499 11.1295121,1.53499014 10.2223741,2.44599606 L9.71791122,2.95274162 L9.20732217,2.43984221 C8.2994774,1.52788955 7.09380866,1.02564103 5.81250582,1.02564103 C4.53450166,1.02564103 3.33236722,1.52599606 2.42805675,2.43463511 C1.52209695,3.34469428 1.02399577,4.55416174 1.02564511,5.8400789 C1.02705883,7.12504931 1.52704497,8.33404339 2.43347602,9.24433925 L9.39534712,16.237712 C9.48535405,16.3281262 9.60339979,16.3733333 9.7212099,16.3733333 C9.83902002,16.3733333 9.95730138,16.3281262 10.0473083,16.237712 L16.9973984,9.25593688 C18.8684587,7.37641026 18.8705793,4.32031558 17.0021108,2.4433925" id="path-3"></path>
+        <filter x="-21.0%" y="-17.3%" width="142.0%" height="147.1%" filterUnits="objectBoundingBox" id="filter-4">
+            <feMorphology radius="0.15" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="1" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Product/Original/list" transform="translate(-8.000000, -6.000000)">
+            <g id="Like-icon" transform="translate(8.000000, 6.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <g id="Fill-1" mask="url(#mask-2)">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                    <use stroke="#FFFFFF" stroke-width="0.3" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
