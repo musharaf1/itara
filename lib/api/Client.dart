@@ -16,7 +16,7 @@ class Client {
   Dio? _dio;
   final _store = fs.FlutterSecureStorage();
   // final String baseUrl = 'https://devapi.itara.ng/api/v1/';
-  final String baseUrl = 'https://api.itarashop.ng/api/v1';
+  final String baseUrl = 'https://api.itarashop.ng/api/v1/';
 
   Client() : super() {
     String? token;
